@@ -1,7 +1,7 @@
 # ⚙️ Mechatronics, Robotics, Control Systems & AI Portfolio
 
 ### **Andrés Santos Ibarra**
-**B.Sc. in Mechatronics Engineering (Final Year — GPA: 94.85/100)**  
+**B.Sc. in Mechatronics Engineering (Final Year — GPA: 95/100)**  
 *Facultad de Ingeniería Mecánica y Eléctrica (FIME), Universidad Autónoma de Nuevo León (UANL)*  
 📍 San Nicolás de los Garza, N.L., Mexico | 📧 andressantosibarra1@gmail.com
 
