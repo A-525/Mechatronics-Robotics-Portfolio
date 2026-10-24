@@ -1,7 +1,7 @@
 # ⚙️ Mechatronics, Robotics, Control Systems & AI Portfolio
 
 ### **Andrés Santos Ibarra**
-**B.Sc. in Mechatronics Engineering (Final Year — GPA: 91.39/100)**  
+**B.Sc. in Mechatronics Engineering (Final Year — GPA: 94.85/100)**  
 *Facultad de Ingeniería Mecánica y Eléctrica (FIME), Universidad Autónoma de Nuevo León (UANL)*  
 📍 San Nicolás de los Garza, N.L., Mexico | 📧 andressantosibarra1@gmail.com
 
@@ -14,9 +14,7 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32_&_Arduino-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase_IoT-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux_Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 * **Modeling, Control & Simulation:** MATLAB/Simulink, OpenModelica, Euler-Lagrange Dynamics, Robust-Adaptive Control, Finite Element Analysis (FEA), TRANE HVAC Simulation.
